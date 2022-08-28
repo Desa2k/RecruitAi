@@ -6,5 +6,18 @@ class CfgFunctions
 	#include "d2k\CfgFunctions.cpp"
 };
 
-
+class CfgRemoteExec
+{
+	class Functions
+	{
+		mode = 1;
+		jip = 1;
+		class d2k_fnc_recruitai { allowedTargets=2; };
+	};
+	class Commands
+	{
+		mode=0;
+		jip=1;
+	};
+};
 
