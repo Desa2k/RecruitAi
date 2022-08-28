@@ -18,7 +18,7 @@ Players will need to Make bindings and / or adjust controls in Arma to command t
 A special thanks to Citro for helping work out a join bug I couldnt put my finger on. 
 Also thanks to Beerkan for his simple Paradrop script which was reworked into this app. His can be found here https://forums.bohemia.net/forums/topic/153935-simple-paradrop-script/
 
-
+![alt text](https://github.com/desa2k/RecruitAi/blob/main/Untitled.png?raw=true)
 
 If you would like to support me you can donate through paypal with the following link.
 https://www.paypal.com/donate/?business=GEWBMDU2D7VKJ&no_recurring=0&currency_code=USD
