@@ -56,11 +56,11 @@ _unit setVariable ["ExileMoney",d2kRecruitPopTabs,true];
 while {(group _unit) != _pGroup} do 
 {
 	[_unit] joinSilent grpNull;
-	[_unit] join _pGroup; 
+	[_unit] join _pGroup; // Change "join" to "joinSilent" for no radio messages
 	uiSleep 0.5;
 };
 uiSleep 3;
-[_unit] join _pGroup;
+[_unit] join _pGroup; // Change "join" to "joinSilent" for no radio messages
 _unit setDamage 0;
 _unit allowdamage true;
 
