@@ -24,5 +24,4 @@ Also thanks to Beerkan for his simple Paradrop script which was reworked into th
 If you would like to support me you can donate through paypal with the following link.
 https://www.paypal.com/donate/?business=GEWBMDU2D7VKJ&no_recurring=0&currency_code=USD
 
-Feel Free to join my discord if you have any questions.
-https://discord.gg/5qDR9CHq3h![Untitled](https://user-images.githubusercontent.com/109931246/187056467-56525ecb-7c8b-44a4-ba75-1fddb1b8d580.png)
+Feel Free to join my discord if you have any questions. https://discord.gg/5qDR9CHq3h
